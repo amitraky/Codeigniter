@@ -1,0 +1,247 @@
+
+@media only screen and (max-width:1199px) {
+	.slider-main-title {
+		font-size: 32px !important;
+	}
+	.slider-main-title span {
+		font-size: 32px !important;
+	}
+}
+
+
+@media only screen and (max-width:1024px) {
+	.slider-main-title {
+		font-size: 30px !important;
+	}
+	.slider-main-title span {
+		font-size: 30px !important;
+	}
+}
+
+@media only screen and (max-width:991px) {
+	.header-topbar-col p a {
+		font-size: 13px;
+	}
+	.register-link a {
+		font-size: 13px;
+	}
+	.header-navbar .navbar-default .navbar-nav>li>a {
+		margin-left: 18px;
+	}
+	.header-navbar .navbar-brand img {
+		width: 170px;
+	}
+	.slider-main-title {
+		font-size: 30px !important;
+	}
+	.slider-main-title span {
+		font-size: 30px !important;
+	}
+	#inner-title-bar .inner-title-bar-box {
+		margin-top: 50px;
+	}
+	.inner-title-bar-box {
+		text-align: left;
+	}
+}
+
+
+@media only screen and (max-width:788px) {
+
+	.slider-main-title {
+		font-size: 25px !important;
+	}
+	.slider-main-title span {
+		font-size: 25px !important;
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.center767 {
+		float: none;
+		text-align: center;
+	}
+	.input-group {
+		width: 60%;
+		margin: auto;
+	}
+	.header-topbar .topbar-arrow {
+		display: none;
+	}
+	.header-navbar .navbar-brand {
+		padding: 0 15px;
+	}
+	.header-navbar .navbar-toggle {
+		border-radius: 0;
+	}
+	.navbar-nav {
+	    max-height: 350px;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	    background-color: transparent;
+	}
+	.main-nav.top-nav-collapse .icon-bar {
+		background: #333333;
+	}
+	.navbar-collapse {
+		margin-top: 20px;
+	}
+	.container>.navbar-collapse {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.main-nav .navbar-right {
+		background: #f1f1f1;
+		margin: 0 -15px;
+		padding: 10px 0;
+	}
+	.main-nav .navbar-nav>li {
+		width: 100%;
+		text-align: center;
+	}
+	.main-nav .navbar-nav>li>a {
+		margin-top: 0;
+		margin-left: 0;
+		color: #666666;
+	}
+	.service-info h3 {
+		font-size: 20px;
+	}
+	.inner-title-bar-box {
+		text-align: center;
+	}
+	#inner-title-bar {
+		padding: 50px 0;
+	}
+	#inner-title-bar img {
+		display: none;
+	}
+	#inner-title-bar .inner-title-bar-box {
+		margin-top: 0;
+	}
+	.footer-post-col .post-box {
+		margin-bottom: 50px;
+	}
+	.about-item .about-icon {
+		margin-left: 15px;
+	}
+	.main-herader-transparent .navbar-default .navbar-collapse, 
+	.navbar-default .navbar-form {
+		background: #ffffff;
+	}
+	.main-herader-transparent .header-navbar .navbar-default .navbar-nav > li > a {
+		color: #333333;
+	}
+}
+
+
+@media only screen and (max-width:690px) {
+	.join-btn {
+		display: none;
+	}
+}
+
+@media only screen and (max-width:600px) {
+	.full-wd600 {
+		width: 100%;
+	}
+	.text-center600 {
+		float: none;
+		text-align: center;
+	}
+	.main-nav .navbar-brand {
+		width: 180px;
+		height: auto;
+	}
+	.angle-shape::before {
+		transform: skewY(3deg);
+		-webkit-transform: skewY(3deg);
+		-moz-transform: skewY(3deg);
+		-ms-transform: skewY(3deg);
+		-o-transform: skewY(3deg);
+	}
+	.header-topbar-col {
+		padding: 5px 0;
+	}
+	.header-topbar-col p {
+		margin-top: 0;
+	}
+	.register-link {
+		margin-top: 0;
+	}
+	.register-link:hover {
+		padding-bottom: 0;
+	}
+	.register-link a {
+		padding-bottom: 0;
+		border: none;
+	}
+	.register-link a:hover {
+		padding-bottom: 0;
+	}
+	.input-group {
+		width: 100%;
+	}
+}
+@media only screen and (max-width:560px) {
+	.slider-para {
+		display: none;
+	}
+	.main-slider-two .slider-para {
+		display: block;
+		letter-spacing: 0;
+	}
+}
+
+@media only screen and (max-width:525px) {
+	.hover-me-content a i {
+		font-size: 25px;
+	}
+}
+
+@media only screen and (max-width:420px) {
+	.main-nav .navbar-brand {
+		width: 150px;
+		height: auto;
+	}
+	.navbar-toggle {
+		margin-bottom: 0;
+	}
+	.slider-main-title {
+		padding-top: 20% !important;
+		font-size: 16px !important;
+	}
+	.slider-main-title span {
+	    font-size: 16px !important;
+	}
+	.consultation-col h2 {
+		font-size: 28px;
+	}
+	.consultation-col {
+		padding: 100px 30px;
+	}
+	.separator-col h2 {
+		font-size: 35px;
+	}
+	.separator-col p {
+		font-size: 18px;
+	}
+	.main-slider-two  .slider-main-title {
+		padding-top: 0 !important;
+	}
+}
+
+@media only screen and (max-width:320px) {
+	.consultation-col h2 {
+		font-size: 20px;
+	}
+	.main-slider-two .slider-para {
+		display: none;
+	}
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn {
+		top: 60%;
+	}
+	.main-slider-two .slider-main-title {
+		padding-top: 40% !important;
+	}
+}
